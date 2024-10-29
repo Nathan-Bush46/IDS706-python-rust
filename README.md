@@ -15,6 +15,8 @@
 
 Example of Rust vs Python script (not using numpy) speed compersion for sum_of_squares.
 
+See [src/main_workspace](src/main_workspace) for python and rust script/binary
+
 ## Performance comparison
 * Python 
    * Sum of squares: 333332833333500000
