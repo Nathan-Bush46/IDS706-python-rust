@@ -1,15 +1,14 @@
-# SQL-Python-Package
+# Rust-Python
 
-[![Docker Image CI Main](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/main.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/main.yml)
+[![Docker Image CI Main](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/main.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/main.yml)
 
-[![Docker Image CI Lint](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/lint.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/lint.yml)
+[![Docker Image CI Lint](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/lint.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/lint.yml)
 
-[![Docker Image CI Test](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/test.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/test.yml)
+[![Docker Image CI Test](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/test.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/test.yml)
 
-[![Docker Image CI Format](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/format.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/format.yml)
+[![Docker Image CI Format](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/format.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/format.yml)
 
-[![Docker Image CI Install](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/install.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-package/actions/workflows/install.yml)
-
+[![Docker Image CI Install](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/install.yml/badge.svg)](https://github.com/Nathan-Bush46/IDS706-python-rust/actions/workflows/install.yml)
 
 
 ## Explanation of Repository 
