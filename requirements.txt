@@ -12,4 +12,4 @@ pylint == 3.2.7
 nbval == 0.11.0
 
 #databricks shit
-python-dotenv 
+python-dotenv
