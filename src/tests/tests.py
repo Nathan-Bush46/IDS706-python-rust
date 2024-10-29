@@ -1,4 +1,4 @@
-from simple_add import sum_of_squares
+from simple_add_p import sum_of_squares
 
 
 def test_make_table():
