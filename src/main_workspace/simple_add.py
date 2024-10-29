@@ -1,7 +1,9 @@
 import time
 
+
 def sum_of_squares(numbers):
     return sum(x * x for x in numbers)
+
 
 # Sample data
 numbers = list(range(1_000_000))
